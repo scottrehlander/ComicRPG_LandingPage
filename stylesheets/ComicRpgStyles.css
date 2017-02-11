@@ -1,0 +1,9 @@
+﻿body {
+}
+
+#myGallery img{
+  display:none;
+}
+#myGallery img.active{
+  display:block;
+}
